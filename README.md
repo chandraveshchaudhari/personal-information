@@ -4,3 +4,11 @@
 
 # personal-information
 This repository contains Chandravesh Chaudhari's personal information such as resume, logo.
+
+
+## Authors
+
+[Chandravesh chaudhari][chandravesh linkedin]
+
+
+[chandravesh linkedin]: https://www.linkedin.com/in/chandravesh-chaudhari "chandravesh linkedin profile"
