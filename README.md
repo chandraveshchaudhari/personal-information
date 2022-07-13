@@ -1,4 +1,4 @@
-<img src="[https://your-image-url.type](https://github.com/chandraveshchaudhari/personal-information/blob/c2e8de76d0540936d13a6a35bb30b2e8555590c5/my_logo.PNG)" width="320" height="320">
+<img src="https://github.com/chandraveshchaudhari/personal-information/blob/b514724b43b7b3661ab2c3ccccfcdf41686a2b4c/my_logo.PNG" width="320" height="320">
 
 
 # personal-information
